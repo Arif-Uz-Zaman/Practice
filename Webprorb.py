@@ -1,6 +1,4 @@
 print("helloworld")
-print("its me arif")
-#okkk
 # problem 3Given a string, display only those characters which are present at an even index number.
 def even_numre(str):
 
